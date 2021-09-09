@@ -1,3 +1,3 @@
 # AWS-SageMaker
-# Introduction
-# Creating free-tier AWS account
+## Introduction
+## Creating free-tier AWS account
